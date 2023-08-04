@@ -1,0 +1,8 @@
+[submodule "papers/049-zohreh-akbari"]
+	path = papers/049-zohreh-akbari
+	url = https://github.com/CAVE-PNP/049-zohreh-akbari.git
+	branch = master
+[submodule "papers/116-stefan-rass"]
+	path = papers/116-stefan-rass
+	url = https://github.com/CAVE-PNP/116-stefan-rass.git
+	branch = master
