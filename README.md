@@ -44,7 +44,11 @@ We merely support you on the way to this goal.
 ## Contribute
 
 Proof file sources for individual P/NP attempts are stored in separate repositories,
-but are included as submodules in this one.  
+but are included as submodules in this one.
+
+To add formalisations, add a new repository to this organization.
+[Contact the maintainer](mailto:stefan.rass@jku.at) to request access.
+
 To clone this repository and initialize all submodules, run:
 
 ```sh
